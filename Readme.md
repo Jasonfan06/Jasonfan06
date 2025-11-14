@@ -2,15 +2,14 @@
 
 
 ---
-
 ## Languages and Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" />
 </p>
+
 
 ---
 
@@ -32,18 +31,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## Other Stats
-
-- **Total Stars Earned:** Automatically synced  
-- **Total Commits (last year):** From GitHub  
-- **PRs:** From GitHub  
-- **Issues:** From GitHub  
-- **Contributions (last year):** From GitHub  
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonfan06&hide_border=false" />
