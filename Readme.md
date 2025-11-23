@@ -13,4 +13,4 @@
 
 ## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfan06&layout=compact&hide_border=false&cache_seconds=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfan06&layout=compact&hide_border=false&cache_seconds=2" />
