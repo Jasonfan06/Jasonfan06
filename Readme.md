@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Jason</h1>
 
 <p align="center">
-  Visit my personal website :D
+  **Visit my personal website :D**
   <a href="https://jasonfan06.github.io" target="_blank">jasonfan06.github.io</a>
 </p>
----
 
 ## Languages and Tools
 
